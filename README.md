@@ -45,8 +45,3 @@ The Client application, developed in Java, serves as the user interface that lin
 - The choice between Java and C++ is influenced by existing libraries or components, with C++ being historically popular in game development and Java being well-suited for client-side applications.
 
 In summary, the combination of Java and C++ in this TikiTakaToe game repository represents a thoughtful and balanced approach, leveraging the strengths of each language to deliver a portable, performant, and user-friendly gaming experience for players.
-
-
-## Contributing
-
-If you wish to contribute to the TikiTakaToe development, please follow the guidelines outlined in [CONTRIBUTING.md](./CONTRIBUTING.md).
